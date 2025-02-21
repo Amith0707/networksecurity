@@ -5,3 +5,7 @@ seaborn
 matplotlib
 scikit-learn
 xgboost
+pymongo
+certifi
+
+#-e .--This is usually added when projects is done and ready to be deployed
