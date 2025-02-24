@@ -11,4 +11,5 @@ pymongo[srv]==3.12
 dill
 pyaml
 mlflow
+dagshub
 #-e .--This is usually added when projects is done and ready to be deployed
